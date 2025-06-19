@@ -19,7 +19,8 @@ A fast and lightweight antivirus engine written in modern C++ with support for:
 | 🗃️ Quarantine  | Encrypted storage of detected threats    |
 | ♻️ Restore     | Restore and decrypt quarantined files    |
 
-| yara rules https://github.com/Yara-Rules/rules
+| yara rules compiled in signature folder. source: https://github.com/Yara-Rules/rules
+| yara structure : https://github.com/VirusTotal/yara
 
 ---
 
