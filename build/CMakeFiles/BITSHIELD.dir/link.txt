@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/BITSHIELD.dir/src/main.cpp.o CMakeFiles/BITSHIELD.dir/src/scanner.cpp.o CMakeFiles/BITSHIELD.dir/src/utils.cpp.o CMakeFiles/BITSHIELD.dir/src/aes.cpp.o -o BITSHIELD  /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libyara.so 
